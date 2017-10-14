@@ -1,6 +1,8 @@
 # Vook
 Convert videos to books
+
 Video Demonstration: https://drive.google.com/file/d/0B8dWk4VUfeMeVVFqbjhWSmJPNFk/view
+
 Python3 Dependencies: 
   1. numpy
   2. opencv3
