@@ -18,8 +18,8 @@ http://www.fpdf.org/
 
 
 General Instructions:
-1.Download the folder and keep it in your desktop
-2.Open the project using qt editor or any other IDE
-3.Find C:\Users\DM\Desktop\* and similar code and change the DM with your own desktop username
-4.Save the file and compile it and run the project
-5.Follow the instructions on the video
+  1. Download the folder and keep it in your desktop
+  2. Open the project using qt editor or any other IDE
+  3. Find C:\Users\DM\Desktop\* and similar code and change the DM with your own desktop username
+  4. Save the file and compile it and run the project
+  5. Follow the instructions on the video
