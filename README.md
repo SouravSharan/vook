@@ -8,6 +8,9 @@ Python3 Dependencies:
   2. opencv3
   3. fpdf
   4. havenondemand api 
+  
+  
+For some python dependencies pip install can be used while for others exclusive download is required.
 
 We used HavenOnDemand speech recognition api to convert speech to text. You can get more information about it here:
 https://dev.havenondemand.com/apis/recognizespeech#overview
