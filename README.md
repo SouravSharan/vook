@@ -9,8 +9,7 @@ Python3 Dependencies:
   3. fpdf
   4. havenondemand api 
   
-  
-For some python dependencies pip install can be used while for others exclusive download is required.
+All the python dependencies are installed through pip install
 
 We used HavenOnDemand speech recognition api to convert speech to text. You can get more information about it here:
 https://dev.havenondemand.com/apis/recognizespeech#overview
