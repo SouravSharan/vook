@@ -183,7 +183,7 @@ void MainWindow::on_pushButton_9_clicked()
                 this,
                 tr("Select the Video File"),
                 "C://",
-                "All Files (*.*);;Video File (*.mp4)"
+                "All Files (*.*);;Video File (*.mp4)"       //Only two typpes of files allowed that is all files and video type
                 );
     ui->lineEdit->setText(filepath);
 }
