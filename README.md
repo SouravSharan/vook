@@ -25,3 +25,5 @@ General Instructions:
   3. Find C:\Users\DM\Desktop\* and similar code and change the DM with your own desktop username
   4. Save the file and compile it and run the project
   5. Follow the instructions on the video
+
+Here the programs written in python and c++ interact with each other via a text file.
